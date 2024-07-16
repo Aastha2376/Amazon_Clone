@@ -161,3 +161,26 @@ span{
 .box-content p{
     color:#007185;
 }
+footer{
+    margin-top: 15px;
+}
+.foot-panel{
+    background-color: #37475a;
+    color: white;
+    height: 50px;
+    font-size: 0.85rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.foot-panel2{
+    background-color: #222f3d;
+    color: white;
+    height: 300px;
+    display: flex;
+    justify-content: space-evenly;
+}
+ul a{
+    display:block;
+    font-size: 0.85rem;
+}
